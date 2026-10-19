@@ -56,6 +56,10 @@ for i in range(n):
 
 ## Output:
 
+<img width="956" height="878" alt="image" src="https://github.com/user-attachments/assets/66f5cf90-07bb-4737-8fd2-3a00133e0398" />
+<img width="831" height="577" alt="image" src="https://github.com/user-attachments/assets/18fcd4a7-4310-4f48-9be7-a306c2bda5e9" />
+
+
 
 
 ## Result:
