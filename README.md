@@ -17,7 +17,9 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 Developed by: Yuvethika V
 RegisterNumber: 26016105
 '''
+
 import os
+
 os.environ["OPENBLAS_NUM_THREADS"]="1"
 
 import numpy as np
